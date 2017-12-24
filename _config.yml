@@ -26,8 +26,9 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: forty_jekyll_theme
+remote_theme: andrewbanchich/forty-jekyll-theme
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
