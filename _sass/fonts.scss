@@ -1,0 +1,19 @@
+
+h1 {
+  font-family: $base-font-family;
+  @include relative-font-size(2.5);
+}
+
+h2 {
+  font-family: $script-font-family;
+  @include relative-font-size(1.5);
+}
+
+h3 {
+  font-family: $script-font-family;
+  @include relative-font-size(1.0);
+}
+
+div, p, li {
+  font-family: $serif-font-family;
+}

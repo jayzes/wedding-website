@@ -1,0 +1,19 @@
+.page-section {
+  width: $content-width;
+  margin: 3em auto;
+  padding: 1em;
+  background: $grey-color-light;
+}
+
+.section-title {
+  width: 100%;
+  text-align: center;
+  color:  $grey-color;
+  font-weight: bolder;
+  margin: -1.25em 0 0.75em 0;
+  @include relative-font-size(2.0);
+}
+
+.section-content {
+  margin: 1em 0
+}

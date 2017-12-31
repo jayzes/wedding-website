@@ -1,0 +1,68 @@
+.site-header {
+  height: 100vh;
+  width: 100%;
+  background-image: url('#{$baseurl}/assets/bachelorgulch.jpg');
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.page-heading {
+  text-align: center;
+  width: 100%;
+  position: absolute;
+  top: 40%;
+}
+
+.site-header h1 {
+  color: $grey-color-light;
+  font-weight: bolder;
+  @include relative-font-size(4.0);
+}
+
+.site-header h2 {
+  color: $grey-color-light;
+  font-weight: bold;
+  @include relative-font-size(2.5);
+}
+
+.arrow-down {
+  position: absolute;
+  bottom: 25px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+@keyframes updown {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-20px);
+  }
+}
+
+.arrow-down a {
+  font-size: 34px;
+  color: $grey-color-light;
+  animation: updown 2s infinite alternate;
+  text-decoration: none
+}
+
+.profile-background {
+  width: 20%;
+  height: 20vh;
+  border: 10px $grey-color-light;
+  border-radius: 50%;
+
+  .profile-photo {
+    background-image: url('#{$baseurl}/assets/hero.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: auto;
+    height: 100%;
+    margin: 0 auto
+  }
+}
