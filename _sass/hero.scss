@@ -1,5 +1,5 @@
 .site-header {
-  height: 100vh;
+  min-height: 100vh;
   width: 100%;
   background-image: url('#{$baseurl}/assets/bachelorgulch.jpg');
   background-position: center center;
@@ -11,8 +11,8 @@
 .page-heading {
   text-align: center;
   width: 100%;
-  position: absolute;
-  top: 40%;
+  position: relative;
+  top: 20%;
 }
 
 .site-header h1 {
@@ -28,10 +28,9 @@
 }
 
 .arrow-down {
-  position: absolute;
-  bottom: 25px;
-  left: 50%;
-  transform: translateX(-50%);
+  position: relative;
+  margin: 4em auto 0 auto;
+  width: 100%;
 }
 
 @keyframes updown {
@@ -47,22 +46,28 @@
   font-size: 34px;
   color: $grey-color-light;
   animation: updown 2s infinite alternate;
-  text-decoration: none
+  text-decoration: none;
+  padding: 0;
+  display: block;
+  text-align: center;
 }
 
 .profile-background {
-  width: 20%;
-  height: 20vh;
-  border: 10px $grey-color-light;
-  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  padding: 0;
 
   .profile-photo {
     background-image: url('#{$baseurl}/assets/hero.jpg');
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
-    width: auto;
+    border: 10px solid $grey-color-light;
+    border-radius: 50%;
+    width: 100%;
     height: 100%;
-    margin: 0 auto
+    margin: 10px -10px;
+    transform: rotate(90deg)
   }
 }
