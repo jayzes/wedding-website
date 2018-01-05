@@ -20,13 +20,23 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-$text-color:       #343439 !default;
-$background-color: #C3D5E2 !default;
-$brand-color:      #475C3B !default;
 
-$grey-color:       #343439 !default;
-$grey-color-light: lighten($grey-color, 80%) !default;
-$grey-color-dark:  darken($grey-color, 25%) !default;
+$text-color:       #333 !default;
+
+$shades-color-light: #E0EDF8 !default;
+$accent-color-light: #B5B392 !default;
+$brand-color: #193050 !default;
+$accent-color-dark:      #B29F4A !default;
+$shades-color-dark: #473C2F !default;
+
+// $background-color: #062A2C !default;
+// $background-color-light: #287364 !default;
+// $brand-color:      #3C9B8D !default;
+// $highlight-color:  #D8392C !default;
+
+// $grey-color:       #343439 !default;
+// $grey-color-light: lighten($grey-color, 80%) !default;
+// $grey-color-dark:  darken($grey-color, 25%) !default;
 
 $table-text-align: left !default;
 

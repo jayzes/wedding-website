@@ -10,7 +10,7 @@ layout: default
   {% if sections.size > 0 %}
     {% for section in sections %}
       <section class="page-section">
-        <a name="{{ section.slug }}">
+        <a class="section-heading" name="{{ section.slug }}">
           <h2 class="section-title">{{ section.title }}</h2>
         </a>
         <div class="section-content">
