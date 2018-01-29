@@ -5,15 +5,15 @@ h1 {
 }
 
 h2 {
-  font-family: $script-font-family;
+  font-family: $base-font-family;
   @include relative-font-size(1.5);
 }
 
 h3 {
-  font-family: $script-font-family;
+  font-family: $serif-font-family;
   @include relative-font-size(1.0);
 }
 
 div, p, li {
-  font-family: $serif-font-family;
+  font-family: $base-font-family;
 }

@@ -1,5 +1,5 @@
 ---
-title: "Getting to Colorado"
+title: "Getting Here"
 order: 4
 ---
 

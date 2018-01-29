@@ -10,24 +10,22 @@ $baseurl: "{{ site.baseurl }}";
 
 @import url(https://fonts.googleapis.com/css?family=Abel|Kaushan+Script|Yrsa);
 
-$base-font-family: "Abel", sans-serif !default;
-$script-font-family: "Kaushan Script", sans-serif !default;
-$serif-font-family: "Yrsa", serif !default;
+$base-font-family: "Open Sans", sans-serif !default;
+$serif-font-family: "Bitter", serif !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
+$background-color: #E0EDF8 !default;
+$navy-color: #193050 !default;
+$red-color: #EE3F29;
 
-
-$text-color:       #333 !default;
-
-$shades-color-light: #E0EDF8 !default;
 $accent-color-light: #B5B392 !default;
-$brand-color: #193050 !default;
 $accent-color-dark:      #B29F4A !default;
 $shades-color-dark: #473C2F !default;
+
 
 // $background-color: #062A2C !default;
 // $background-color-light: #287364 !default;
@@ -68,5 +66,6 @@ $on-laptop:        800px !default;
   "base",
   "fonts",
   "hero",
-  "section"
+  "section",
+  "nav"
 ;

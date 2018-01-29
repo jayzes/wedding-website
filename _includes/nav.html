@@ -1,0 +1,8 @@
+<nav class="page-nav">
+  <ul>
+    {% assign sections = site.sections | sort: 'order' %}
+    {% for section in sections %}
+      <li><a href="#{{ section.slug }}">{{ section.title }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>
