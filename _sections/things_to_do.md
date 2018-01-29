@@ -17,15 +17,14 @@ We’ve done an number of different river trips over the years, and always enjoy
 A favorite summer tradition for both of us is Vail’s free Saturday morning yoga classes on the “lawn” (turf on the skating rink) at Solaris. Starting at 9am, it’s a great way to unwind and enjoy the outdoors from the comfort of your mat.
 
 ### Coffee!
-Both of us (but Jay in particular) are coffee monsters, and one of our favorite summer rituals is sitting out reading while enjoying a delicious cold brew. Our two favorite spots in the valley are Yeti’s Grind (located in the Solaris in Vail Village) and Hovey & Harrison (located in Edwards).
+Both of us (but Jay in particular) are coffee monsters, and one of our favorite summer rituals is sitting out reading while enjoying a delicious cold brew. Our two favorite spots in the valley are [Yeti’s Grind](https://www.yetisgrind.com/) (located in the Solaris in Vail Village) and [Hovey & Harrison](https://hoveyandharrison.com/) (located in Edwards).
 
 ### Dining & Drinking
-There are a number of dining and drinking establishments to suit nearly every
-preference. Some of our favorites, in no particular order, include:
+There are a number of dining and drinking establishments to suit nearly every preference. Some of our favorites, in no particular order, include:
 
-- Vail Brewing Co, Crazy Mountain, and Bonfire for beers
-- Vin48 for wine and small plates
-- Craftsman for upscale sandwiches
-- Sonnenalp for a taste of Bavaria in Vail Village
-- Northside for donuts
-- Yellow Belly and Larkburger for a quick bite
+- [Vail Brewing Co](http://www.vailbrewingco.com/) and [Bonfire](http://bonfirebrewing.com/) for beers
+- [Vin48](http://www.vin48.com/) for wine and small plates
+- [Craftsman](https://craftsmanvail.com/) for upscale sandwiches
+- [The Sonnenalp](https://sonnenalp.com/) for a taste of Bavaria in Vail Village
+- [Northside Kitchen](https://www.thenorthsidekitchen.com/) for donuts
+- [Yellowbelly](http://yellowbellychicken.com/) and [Larkburger](http://larkburger.com/) for a quick bite
