@@ -3,9 +3,9 @@ title: "Registry"
 order: 6
 ---
 
-In all seriousness, your presence is the best gift we could hope for, and we are very appreciative for the time and expense it takes to get to the Rockies to celebrate this occasion with us.
+In all seriousness, your presence is the best gift we could hope for, and we are very appreciative of the time and expense it takes to get to the Rockies to celebrate this occasion with us.
 
-Some guests have graciously expressed their desire to give a gift to mark the occasion. We have created registries to help us finish out our home:
+Some guests have graciously expressed their desire to give a gift to mark the occasion. We recently purchased a home together in Denver and have created registries to help us finish making the space our own:
 
 - [Crate and Barrel](https://www.crateandbarrel.com/gift-registry/marla-brizel-and-jay-zeschin/r5771075) for kitchen, dining, and entertaining
 

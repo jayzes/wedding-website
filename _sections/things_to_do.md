@@ -20,8 +20,12 @@ A favorite summer tradition for both of us is Vail’s free Saturday morning yog
 Both of us (but Jay in particular) are coffee monsters, and one of our favorite summer rituals is sitting out reading while enjoying a delicious cold brew. Our two favorite spots in the valley are Yeti’s Grind (located in the Solaris in Vail Village) and Hovey & Harrison (located in Edwards).
 
 ### Dining & Drinking
-- Vail Brewing Co / Crazy Mountain / Bonfire
-- Vin48
-- Craftsman (?)
-- Sonnenalp (?)
-- Northside (Donuts)
+There are a number of dining and drinking establishments to suit nearly every
+preference. Some of our favorites, in no particular order, include:
+
+- Vail Brewing Co, Crazy Mountain, and Bonfire for beers
+- Vin48 for wine and small plates
+- Craftsman for upscale sandwiches
+- Sonnenalp for a taste of Bavaria in Vail Village
+- Northside for donuts
+- Yellow Belly and Larkburger for a quick bite

@@ -3,7 +3,7 @@ title: "Lodging"
 order: 5
 ---
 
-We have blocks arranged at two different hotels in the Beaver Creek / Avon area. Please note that there are a limited number of rooms available in each block and rooms are available on a first-come, first-serve basis. The block rate is available until MONTH DAY.
+We are in the process of arranging hotel blocks in the Beaver Creek / Avon area. Please check back here shortly for more information!
 
 In addition to the room blocks, there are a variety of hotels and home rentals available nearby to suit nearly every preference and budget. Airbnb, VRBO, and East-West Vacation Rentals have a number of great options.
 
