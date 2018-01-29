@@ -13,7 +13,7 @@ title: "Marla & Jay"
 subtitle: "July 21, 2018"
 email: zeschinwedding@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-We're getting married!
+  We're getting married!
 url: "http://jayandmarla.com"
 baseurl: ""
 plugins:
