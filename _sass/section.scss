@@ -1,0 +1,29 @@
+.page-section {
+  margin: 2em auto;
+  padding: 1em;
+  background-color: lighten($background-color, 20%)
+}
+
+.jumptarget::before {
+  content:"";
+  display: block;
+  height: 500px; /* fixed header height*/
+  margin-top: -500px; /* negative fixed header height */
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.section-title {
+  width: 100%;
+  text-align: center;
+  color:  $navy-color;
+  font-weight: bolder;
+  font-family: $serif-font-family;
+  text-transform: capitalize;
+  margin: -1.25em 0 0.75em 0;
+  @include relative-font-size(2.0);
+}
+
+.section-content {
+  margin: 1em 0
+}

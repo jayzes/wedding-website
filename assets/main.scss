@@ -1,0 +1,71 @@
+---
+# The main Sass file needs front matter (though it can be empty)
+---
+
+$baseurl: "{{ site.baseurl }}";
+
+@charset "utf-8";
+
+// Define defaults for each variable.
+
+@import url(https://fonts.googleapis.com/css?family=Abel|Kaushan+Script|Yrsa);
+
+$base-font-family: "Open Sans", sans-serif !default;
+$serif-font-family: "Bitter", serif !default;
+$base-font-size:   16px !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 1.5 !default;
+
+$spacing-unit:     30px !default;
+$background-color: #E0EDF8 !default;
+$navy-color: #193050 !default;
+$red-color: #EE3F29;
+
+$accent-color-light: #B5B392 !default;
+$accent-color-dark:      #B29F4A !default;
+$shades-color-dark: #473C2F !default;
+
+
+// $background-color: #062A2C !default;
+// $background-color-light: #287364 !default;
+// $brand-color:      #3C9B8D !default;
+// $highlight-color:  #D8392C !default;
+
+// $grey-color:       #343439 !default;
+// $grey-color-light: lighten($grey-color, 80%) !default;
+// $grey-color-dark:  darken($grey-color, 25%) !default;
+
+$table-text-align: left !default;
+
+// Width of the content area
+$content-width:    800px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//   .wrapper {
+//     padding-right: $spacing-unit / 2;
+//     padding-left: $spacing-unit / 2;
+//   }
+// }
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
+// Import partials.
+@import
+  "base",
+  "fonts",
+  "hero",
+  "section",
+  "nav"
+;
