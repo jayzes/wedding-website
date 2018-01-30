@@ -9,14 +9,14 @@ layout: default
   {% assign sections = site.sections | sort: 'order' %}
   {% if sections.size > 0 %}
     {% for section in sections %}
-      <section class="page-section jumptarget" id="{{ section.slug }}">
-        <div class="wrapper">
+      <div class="wrapper jumptarget" id="{{ section.slug }}">
+        <section class="page-section">
           <h2 class="section-title">{{ section.title }}</h2>
           <div class="section-content">
             {{ section.content }}
           </div>
-        </div>
-      </section>
+        </section>
+      </div>
     {% endfor %}
   {% endif %}
 </div>

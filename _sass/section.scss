@@ -1,14 +1,14 @@
 .page-section {
   margin: 2em auto;
   padding: 1em;
-  background-color: lighten($background-color, 20%)
+  background-color: lighten($background-color, 20%);
 }
 
 .jumptarget::before {
   content:"";
   display: block;
-  height: 500px; /* fixed header height*/
-  margin-top: -500px; /* negative fixed header height */
+  height: 6em; /* fixed header height*/
+  margin-top: -6em; /* negative fixed header height */
   visibility: hidden;
   pointer-events: none;
 }
@@ -25,5 +25,5 @@
 }
 
 .section-content {
-  margin: 1em 0
+  margin: 1em 0;
 }
