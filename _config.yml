@@ -20,3 +20,4 @@ plugins:
   - jekyll-seo-tag
 collections:
 - sections
+google_analytics: "UA-7482331-2"
