@@ -11,5 +11,5 @@ Summer weather in Colorado’s high country can be highly variable. Red Sky sits
 
 We look forward to letting loose with with our family and closest friends! While
 we love your children, we regrettably are only able to accommodate adults at our
-ceremony and reception. We would be thrilled to suggest options for childcare
+ceremony and reception. [Care 4 Kids](http://www.babysittinginvail.com/){:target="blank"} offers childcare options, and we would be thrilled to provide additional suggestions for childcare
 during the evening.
