@@ -8,7 +8,7 @@ The Vail Valley is a very special place for us - it’s where we had our first d
 ### Hiking and/or trail running
 There are a ton of great trails within just a few minutes of Vail and Beaver Creek. On Beaver Creek Mountain, the Overlook, Royal Elk, and Beaver Lake Trails offer terrific views, amazing wildflowers, and perhaps even wildlife. If you’re really lucky, you might even see a marmot or two - Marla’s favorite! You can choose to hike or run up from Beaver Creek Village, or catch a lift ride to the top and cut right to the downhill. On Vail Mountain, Berry Picker, Kinnickinnick and Grand Traverse offer some great forested trails and an amazing 360-degree view of the wildflowers in Vail’s renowned bowls.
 
-If you’re feeling particularly ambitious, the Vail Rec District’s annual Camp Hale Half Marathon and 5K is Saturday morning, just a few minutes up the road.
+If you’re feeling particularly ambitious, the Vail Rec District’s [Half Marathon and 5K](http://www.vailrec.com/sports-activities/vail-race/trail-running-racing/vail-trail-run-camp-hale-half-marathon){:target="blank"} is Saturday morning, just a few minutes up the road.
 
 ### On the river
 We’ve done an number of different river trips over the years, and always enjoy getting to spend time on the water. In order from least- to most-intense: In Avon proper, you can rent a paddleboard and go out on Nottingham Lake for a few laps in the shadow of the mountains. In State Bridge / Bond, you can float the Class II rapids of the upper Colorado River on a paddleboard (like we did the first time Marla came out to visit Jay!). Slightly further downstream, the Colorado River through Glenwood Canyon offers scenic views and Class II-IV rapids, either in river rafts or inflatable two-person kayaks called “duckies” (another favorite date!). 
@@ -19,7 +19,7 @@ courses set among some truly stunning scenery. Beaver Creek resort also boasts a
 golf course set in the shadow of the ski resort.
 
 We'll have discounted options for both locations - if golf is your jam, check
-back by mid-February for details.
+back in the spring for details.
 
 ### Yoga
 A favorite summer tradition for both of us is Vail’s free Saturday morning yoga classes on the “lawn” (turf on the skating rink) at Solaris. Starting at 9am, it’s a great way to unwind and enjoy the outdoors from the comfort of your mat.
