@@ -9,5 +9,15 @@ Flights into Denver are generally cheaper and more plentiful. However, you’ll 
 
 Eagle’s airport is conveniently located only 30 minutes west of Beaver Creek. However, flights into Eagle are typically more expensive and schedules can be limited. You will still need a car or a shuttle to get to the resort.
 
+It is worth noting that traffic from Denver to the mountains has become
+increasingly heavy during the summer months as more and more people discover the
+magic of spending a summer weekend at high altitude. Please allow ample travel
+time from Denver to Beaver Creek, especially if you plan to make the journey on
+Friday afternoon or Saturday morning. Travel times are frequently much higher
+during these peak periods and it's not unusual for the trip to take an extra
+hour (or more). Similarly, eastbound traffic back to Denver begins to build
+around lunchtime on Sunday and can continue to be heavy through the early
+evening. Please plan accordingly for your trip back down the hill!
+
 If you are concerned about altitude, we suggest flying into Denver and spending
 a night there first to help your body acclimatize.
