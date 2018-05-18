@@ -7,7 +7,7 @@ Free, on-demand shuttle service is available within the boundaries of Beaver Cre
 
 [More information on Dial-A-Ride can be found here.](https://www.beavercreek.com/explore-the-resort/about-the-resort/getting-around.aspx?tc_1=2){:target="_blank"}
 
-[More information on other inter-resort transit can be found here.](https://www.beavercreek.com/explore-the-resort/about-the-resort/getting-around.aspx?tc_1=1){:target="_blank"}
+[More information on other intra-resort transit options can be found here.](https://www.beavercreek.com/explore-the-resort/about-the-resort/getting-around.aspx?tc_1=1){:target="_blank"}
 
 ### Parking
 If you are not staying within Beaver Creek, you may park in the Ford Hall
