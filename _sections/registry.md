@@ -1,6 +1,6 @@
 ---
 title: "Registry"
-order: 6
+order: 7
 ---
 
 In all seriousness, your presence is the best gift we could hope for, and we are very appreciative of the time and expense it takes to get to the Rockies to celebrate this occasion with us.
