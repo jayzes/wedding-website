@@ -8,7 +8,7 @@ Please refer to our <a href="/#maps">maps</a> for directions, maps, and parking 
 Please join us Friday evening for a welcome reception at the Beaver Creek Club. Details may be found on the detail card in your invitation.
 
 ### Saturday
-Our ceremony will take place at Red Sky Ranch on July 21. Cocktails, dinner and dancing will follow immediately at the same location.
+Our ceremony will take place at Red Sky Ranch Member Clubhouse on July 21. Cocktails, dinner and dancing will follow immediately at the same location.
 
 Red Sky Ranch is located about 25 minutes (15 miles) west of Beaver Creek. We will provide transportation from convenient pickup points in Beaver Creek and Avon to Red Sky Ranch. Parking is also available at Red Sky should you wish to drive yourself; however, we do request that you take the shuttle if you are unfamiliar with mountain driving and/or if you wish to take advantage of the bar during the reception. We want everyone to have a fun and safe time!
 
