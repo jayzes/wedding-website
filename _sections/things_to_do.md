@@ -1,6 +1,6 @@
 ---
 title: "Things to See & Do"
-order: 7
+order: 6
 ---
 
 The Vail Valley is a very special place for us - it’s where we had our first date, where we’ve spent many holidays, and where we got engaged. There are a ton of things to see and do in the summer all around the valley. A few of our favorites:

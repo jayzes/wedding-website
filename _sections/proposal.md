@@ -1,6 +1,6 @@
 ---
 title: "The Proposal"
-order: 2
+order: 10
 ---
 
 In October 2017, Jay suggested a weekend getaway to the mountains. We don’t normally venture up to the mountains during the “mud season,” but we were both in need of a mini vacation and were lured by the promise of early-season snowfall.

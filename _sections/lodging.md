@@ -13,8 +13,7 @@ You may make reservations at any of the above properties by calling
 **877-820-7669, Option 1**. Please provide the agent with the Group Code **GJ4BZW**
 (Brizel/Zeschin Wedding).
 
-Please note that all lodging options are subject to availability and special rates are
-available through June 29, 2018.
+Please note that all lodging options are subject to availability and special rates are only available through June 29, 2018.
 
 In addition to the room blocks, there are a variety of hotels and home rentals available nearby to suit nearly every preference and budget. Airbnb, VRBO, and East-West Vacation Rentals have a number of great options. We strongly recommend staying somewhere within Beaver Creek itself or the Town of Avon so that you can easily catch the shuttle to the wedding and reception.
 
