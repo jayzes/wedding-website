@@ -1,5 +1,5 @@
 ---
-title: "A note on altitude"
+title: "Altitude"
 order: 8
 ---
 
