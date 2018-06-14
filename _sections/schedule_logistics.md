@@ -14,8 +14,12 @@ Red Sky Ranch is located about 25 minutes (15 miles) west of Beaver Creek. We wi
 
 Parking is also available at Red Sky should you wish to drive yourself; however, we do kindly request that you plan to take the shuttle if you are unfamiliar with mountain driving and/or if you wish to take advantage of the bar during the reception. We want everyone to have a fun and safe time!
 
-### Weather
-Summer weather in Colorado’s high country can be highly variable. In July, average daytime temperatures top out around 80 degrees and lows can approach 50 degrees. While the venue is tented and heated, it is located outdoors and rain is possible anytime. Suggested attire is "mountain cocktail" - think cocktail, but with a sweater or jacket in reserve for cooler temperatures. No denim, athletic attire, or flip flops, please.
+### Attire and Weather
+We kindly suggest cocktail attire for the ceremony and reception. For the ladies, we also encourage you to bring a sweater or jacket to have in reserve.
+
+No denim, athletic attire, or flip flops, please.
+
+Summer weather in Colorado’s high country can be highly variable. In July, average daytime temperatures top out around 80 degrees and lows can approach 50 degrees. It's not uncommon for the temperature to drop 20 or more degrees once the sun goes down. While the venue is tented and heated, it is located outdoors and rain is possible anytime.
 
 ### Children
 We look forward to letting loose with with our family and closest friends! While
