@@ -21,6 +21,8 @@ No denim, athletic attire, or flip flops, please.
 
 Summer weather in Colorado’s high country can be highly variable. In July, average daytime temperatures top out around 80 degrees and lows can approach 50 degrees. It's not uncommon for the temperature to drop 20 or more degrees once the sun goes down. While the venue is tented and heated, it is located outdoors and rain is possible anytime.
 
+Fire danger in Eagle County (where all wedding festivities are taking place) is currently [Extreme](https://www.fs.usda.gov/detail/inyo/home/?cid=stelprdb5173311){:target="blank"} and it is presently illegal to smoke outside, including on balconies and porches. Please help us prevent fires by obeying all fire restrictions! 
+
 ### Children
 We look forward to letting loose with with our family and closest friends! While
 we love your children, we regrettably are only able to accommodate adults at our
