@@ -5,17 +5,17 @@ order: 2
 Please refer to our <a href="/#maps">maps</a> for directions, maps, and parking information for all of the weekend's festivities!
 
 ### Friday
-Please join us Friday evening for a welcome reception at the Beaver Creek Club. Details may be found on the detail card in your invitation.
+Please join us Friday evening for a welcome reception at the Beaver Creek Club. More information may be found on the detail card in your invitation.
 
 ### Saturday
-Our ceremony will take place at Red Sky Ranch Member Clubhouse on July 21. Cocktails, dinner and dancing will follow immediately at the same location.
+Our ceremony will take place at the Red Sky Ranch Member Clubhouse on July 21. Cocktails, dinner and dancing will follow immediately at the same location.
 
 Red Sky Ranch is located about 25 minutes (15 miles) west of Beaver Creek. We will provide transportation from Centennial Station in Beaver Creek to Red Sky and then back to Beaver Creek at the end of the night. **Please plan to board the shuttle at Centennial Station by 4:45 pm.**
 
-Parking is also available at Red Sky should you wish to drive yourself; however, we do kindly request that you plan to take the shuttle if you are unfamiliar with mountain driving and/or if you wish to take advantage of the bar during the reception. We want everyone to have a fun and safe time!
+Parking is also available at Red Sky should you wish to drive yourself; however, we do kindly request that you plan to take the shuttle if you are unfamiliar with mountain driving or if you wish to take advantage of the bar during the reception. We want everyone to have a fun and safe time!
 
 ### Attire and Weather
-We kindly suggest cocktail attire for the ceremony and reception. For the ladies, we also encourage you to bring a sweater or jacket to have in reserve.
+We kindly request cocktail attire for the ceremony and reception. For the ladies, we also encourage you to bring a sweater or jacket to have in reserve.
 
 No denim, athletic attire, or flip flops, please.
 
