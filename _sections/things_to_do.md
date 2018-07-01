@@ -25,7 +25,7 @@ back in the spring for details.
 A favorite summer tradition for both of us is Vail’s free Saturday morning yoga classes on the “lawn” (turf on the skating rink) at Solaris. Starting at 9am, it’s a great way to unwind and enjoy the outdoors from the comfort of your mat.
 
 ### Coffee!
-Both of us (but Jay in particular) are coffee monsters, and one of our favorite summer rituals is sitting out reading while enjoying a delicious cold brew. Our two favorite spots in the valley are [Yeti’s Grind](https://www.yetisgrind.com/){:target="blank"} (located in the Solaris in Vail Village) and [Hovey & Harrison](https://hoveyandharrison.com/){:target="blank"} (located in Edwards).
+One of our favorite summer rituals is sitting outside reading while enjoying a delicious cold brew. Our two favorite spots in the valley are [Yeti’s Grind](https://www.yetisgrind.com/){:target="blank"} (located in the Solaris in Vail Village) and [Hovey & Harrison](https://hoveyandharrison.com/){:target="blank"} (located in Edwards). Hovey & Harrison also has a great brunch.
 
 ### Dining & Drinking
 There are a number of dining and drinking establishments to suit nearly every preference. Some of our favorites, in no particular order, include:
@@ -35,6 +35,8 @@ There are a number of dining and drinking establishments to suit nearly every pr
 - [Zino](https://zinoristorante.com/){:target="blank"} for Italian. We
   celebrated our engagement here!
 - [Craftsman](https://craftsmanvail.com/){:target="blank"} for upscale sandwiches
+- [Belmont Deli](http://www.belmontdeliedwards.com/){:target="blank"} for more
+  sandwiches and plenty of gluten free options
 - [The Sonnenalp](https://sonnenalp.com/){:target="blank"} for a taste of Bavaria in Vail Village
-- [Northside Kitchen](https://www.thenorthsidekitchen.com/){:target="blank"} for donuts
+- [Northside Kitchen](https://thenorthsidekitchen.com/){:target="blank"} for donuts
 - [Yellowbelly](http://yellowbellychicken.com/){:target="blank"} and [Larkburger](http://larkburger.com/edwards){:target="blank"} for a quick bite
