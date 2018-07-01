@@ -17,6 +17,9 @@ Parking is also available at Red Sky should you wish to drive yourself; however,
 ### Attire and Weather
 We kindly request cocktail attire for the ceremony and reception. For the ladies, we also encourage you to bring a sweater or jacket to have in reserve.
 
+Friday night dress is somewhat more casual than Saturday. Marla will be wearing
+Kate Spade and Jay will be wearing a dress shirt without a tie, if that helps.
+
 No denim, athletic attire, or flip flops, please.
 
 Summer weather in Colorado’s high country can be highly variable. In July, average daytime temperatures top out around 80 degrees and lows can approach 50 degrees. It's not uncommon for the temperature to drop 20 or more degrees once the sun goes down. While the venue is tented and heated, it is located outdoors and rain is possible anytime.
