@@ -10,9 +10,9 @@ Please join us Friday evening for a welcome reception at the Beaver Creek Club. 
 ### Saturday
 Our ceremony will take place at the Red Sky Ranch Member Clubhouse on July 21. Cocktails, dinner and dancing will follow immediately at the same location.
 
-Red Sky Ranch is located about 25 minutes (15 miles) west of Beaver Creek. We will provide transportation from Centennial Station in Beaver Creek to Red Sky and then back to Beaver Creek at the end of the night. **Please plan to board the shuttle at Centennial Station by 4:45 pm.**
+Red Sky Ranch is located about 25 minutes (15 miles) west of Beaver Creek. We will provide transportation from Centennial Station in Beaver Creek to Red Sky and then back to Beaver Creek at the end of the night. We will also run an early shuttle after dinner for anyone who needs it. **Please plan to board the shuttle at Centennial Station by 4:45 pm.**
 
-Very limited parking is also available at Red Sky should you wish to drive yourself; however, we do request that you plan to take the shuttle unless you absolutely must drive yourself, and especially if you are unfamiliar with mountain driving or if you wish to take advantage of the bar during the reception. We want everyone to have a fun and safe time!
+Very limited parking is also available at Red Sky should you wish to drive yourself; however, trust us when we say that you don't want to drive yourself. We do request that you please plan to take the shuttle unless you absolutely must drive yourself, and especially if you are unfamiliar with mountain driving or if you wish to take advantage of the bar during the reception. We want everyone to have a fun and safe time!
 
 ### Attire and Weather
 We kindly request cocktail attire for the ceremony and reception. For the ladies, we also encourage you to bring a sweater or jacket to have in reserve.
