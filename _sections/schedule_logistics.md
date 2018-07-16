@@ -14,11 +14,17 @@ Red Sky Ranch is located about 25 minutes (15 miles) west of Beaver Creek. We wi
 
 Very limited parking is also available at Red Sky should you wish to drive yourself; however, trust us when we say that you don't want to drive yourself. We do request that you please plan to take the shuttle unless you absolutely must drive yourself, and especially if you are unfamiliar with mountain driving or if you wish to take advantage of the bar during the reception. We want everyone to have a fun and safe time!
 
+### Sunday
+Please join us for a casual breakfast on Sunday Morning at the Beaver Creek Club
+Mountain Clubhouse (same place as the Friday Welcome Reception). Stop by anytime
+between 9:00am and 11:30am for coffee, food, and/or a little hair of the dog.
+Stay and chat or grab something to go.
+
 ### Attire and Weather
 We kindly request cocktail attire for the ceremony and reception. For the ladies, we also encourage you to bring a sweater or jacket to have in reserve.
 
 Friday night dress is somewhat more casual than Saturday. Marla will be wearing
-Kate Spade and Jay will be wearing a dress shirt without a tie, if that helps.
+a white dress that is not her wedding dress and Jay will be wearing a dress shirt without a tie, if that helps.
 
 No denim, athletic attire, or flip flops, please.
 
