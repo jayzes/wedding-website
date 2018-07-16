@@ -18,7 +18,7 @@ Very limited parking is also available at Red Sky should you wish to drive yours
 Please join us for a casual breakfast on Sunday Morning at the Beaver Creek Club
 Mountain Clubhouse (same place as the Friday Welcome Reception). Stop by anytime
 between 9:00am and 11:30am for coffee, food, and/or a little hair of the dog.
-Stay and chat or grab something to go.
+Stay and chat or grab something to go. No RSVP necessary.
 
 ### Attire and Weather
 We kindly request cocktail attire for the ceremony and reception. For the ladies, we also encourage you to bring a sweater or jacket to have in reserve.
