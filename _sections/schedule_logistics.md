@@ -5,17 +5,22 @@ order: 2
 Please refer to our <a href="/#maps">maps</a> for directions, maps, and parking information for all of the weekend's festivities!
 
 ### Friday
-Please join us Friday evening from 7:30 - 10:00pm for a welcome reception with light bites, dessert, & drinks at the Beaver Creek Club Mountain Clubhouse (NOT the golf course). The clubhouse is located adjacent to Centennial Station - 11 Elk Track Road, Avon, Colorado, 81620.
+Please join us Friday evening from 7:30 - 10:00pm for a welcome reception at the Beaver Creek Club Mountain Clubhouse (NOT the golf course). The clubhouse is located adjacent to Centennial Station - 11 Elk Track Road, Avon, Colorado, 81620. Light bites, dessert, & drinks will be provided.
 
 ### Saturday
 Our ceremony will take place at the Red Sky Ranch Member Clubhouse on July 21. Cocktails, dinner, and dancing will follow immediately at the same location.
 
-Red Sky Ranch is located about 25 minutes (15 miles) west of Beaver Creek. We will provide transportation from Centennial Station in Beaver Creek to Red Sky and then back to Beaver Creek at the end of the night. We will also run an early shuttle after dinner for anyone who needs it. **Please plan to board the shuttle at Centennial Station by 4:45 pm.**
+Red Sky Ranch is located about 25 minutes (15 miles) west of Beaver Creek. We will provide transportation from Centennial Station in Beaver Creek to Red Sky and then back to Beaver Creek at the end of the night. We will also run an early shuttle back for anyone who needs to call it a night after the first few dances. **Please plan to board the shuttle at Centennial Station by 4:45 pm.**
+
+Centennial Station is located adjacent to the Beaver Creek Mountain Clubhouse.
 
 If you are not staying within Beaver Creek, please refer to our <a
 href="/#maps">maps</a> for information on how to get to Centennial Station!
 
-Very limited parking is also available at Red Sky should you wish to drive yourself; however, trust us when we say that you don't want to drive yourself. We do request that you please plan to take the shuttle unless you absolutely must drive yourself, and especially if you are unfamiliar with mountain driving or if you wish to take advantage of the bar during the reception. We want everyone to have a fun and safe time!
+Very limited parking is also available at Red Sky should you wish to drive yourself; however, trust us when we say that you don't want to drive yourself - it is a challenging drive complete with highway construction, dark winding roads, and wildlife. We do request that you please plan to take the shuttle unless you absolutely must drive yourself, and especially if you are unfamiliar with mountain driving or if you wish to take advantage of the bar during the reception. We want everyone to have a fun and safe time!
+
+We will provide transportation back at several points during the night so that
+early birds and night owls can all enjoy the evening on their own terms.
 
 ### Sunday
 Please join us for a casual breakfast on Sunday Morning at the Beaver Creek Club
