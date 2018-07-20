@@ -5,7 +5,7 @@ order: 2
 Please refer to our <a href="/#maps">maps</a> for directions, maps, and parking information for all of the weekend's festivities!
 
 ### Friday
-Please join us Friday evening for a welcome reception at the Beaver Creek Club Mountain Clubhouse (NOT the golf course). More information may be found on the detail card in your invitation.
+Please join us Friday evening from 7:30 - 10:00pm for a welcome reception with light bites, dessert, & drinks at the Beaver Creek Club Mountain Clubhouse (NOT the golf course). The clubhouse is located adjacent to Centennial Station - 11 Elk Track Road, Avon, Colorado, 81620.
 
 ### Saturday
 Our ceremony will take place at the Red Sky Ranch Member Clubhouse on July 21. Cocktails, dinner, and dancing will follow immediately at the same location.
